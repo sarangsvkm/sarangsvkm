@@ -1,50 +1,107 @@
-<h1 align="center">Hi 👋, I'm SARANG S</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sarang S</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarangsvkm" alt="sarangsvkm" /></a> </p>
+<h3 align="center">🚀 Software Developer | Java & Spring Boot Specialist</h3>
 
-- 👨‍💻 All of my projects are available at [https://sarangsvkm.in/](https://sarangsvkm.in/)
-
-- 💬 Ask me about **I am Sarang S, a Software Developer at Blogtec Software LLP, Kochi. Skilled in Java Swing, Spring Boot, JavaFX, JDBC, and PostgreSQL, I specialize in building efficient applications and crafting dynamic user interfaces. With expertise in API integration (Postman), JSON, and Jasper Reports, I am passionate about delivering high-quality software solutions.**
-
-- 📫 How to reach me **sarangsvkm@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sarang-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarang-s" height="30" width="40" /></a>
-<a href="https://dev.to/sarangsvkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarangsvkm" height="30" width="40" /></a>
-<a href="https://twitter.com/sarangsvkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarangsvkm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarangsvkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarangsvkm" height="30" width="40" /></a>
-<a href="https://instagram.com/sarangsvkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarangsvkm" height="30" width="40" /></a>
-<a href="https://dribbble.com/sarangsvkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sarangsvkm" height="30" width="40" /></a>
-<a href="https://medium.com/sarangsvkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sarangsvkm" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Spring+Boot+Expert;Backend+Engineer;Building+Scalable+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+## 🌐 Portfolio  
+🔗 https://sarangsvkm.in/
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sarangsvkm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarangsvkm" /></a></p><br><br>
+---
 
+## 💼 About Me  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangsvkm&show_icons=true&locale=en&layout=compact" alt="sarangsvkm" /></p>
+- 💻 Software Developer at **Blogtec Software LLP, Kochi**
+- 🔥 3+ Years Experience in Backend Development
+- ⚙️ Specializing in:
+  - Java, Spring Boot
+  - REST API Development
+  - PostgreSQL & JDBC
+- 🎯 Focused on scalable systems & clean architecture
+- 🚀 Goal: Crack top product companies (Microsoft-level)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangsvkm&show_icons=true&locale=en" alt="sarangsvkm" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangsvkm&" alt="sarangsvkm" /></p>
+## 🧠 Tech Stack  
 
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
+## 📊 GitHub Analytics  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarangsvkm&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarangsvkm&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangsvkm&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
+## 🏆 Achievements  
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarangsvkm&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarangsvkm"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/sarangsvkm"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://instagram.com/sarangsvkm"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://dev.to/sarangsvkm"><img src="https://skillicons.dev/icons?i=devto" /></a>
+</p>
+
+---
+
+## ☕ Support  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sarangsvkm">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
+  </a>
+</p>
+
+---
+
+## 🔥 Fun Fact  
+
+```diff
++ I turn coffee into scalable backend systems ☕🚀
 
 
 
