@@ -48,8 +48,6 @@
 
 ---
 
-### 👾 Automated Neural Contribution Matrix (GitHub Snake Animation)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarangsvkm/sarangsvkm/output/github-contribution-grid-snake-dark.svg">
@@ -57,9 +55,6 @@
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/sarangsvkm/sarangsvkm/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-> [!NOTE]
-> The snake animation above is **autonomously generated every 12 hours via GitHub Actions** (`platane/snk`), continuously consuming active contribution blocks across repositories!
 
 ---
 
