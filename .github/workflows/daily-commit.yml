@@ -1,0 +1,32 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    # Runs everyday at 18:00 UTC (11:30 PM IST)
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Update Daily Activity Log
+        run: |
+          mkdir -p .github
+          echo "⚡ Activity pulse: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/activity.log
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "sarangsvkm"
+          git config --global user.email "sarangsvkm@gmail.com"
+          git add .github/activity.log
+          git commit -m "chore: automated daily activity pulse [skip ci]" || exit 0
+          git push origin main
